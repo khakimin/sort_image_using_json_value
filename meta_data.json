@@ -1,0 +1,22 @@
+{
+  "0": {
+    "image_filepath": "home/hakimin/images/0.jpg",
+    "anomaly_class": "A"
+  },
+  "1": {
+    "image_filepath": "home/hakimin/images/1.jpg",
+    "anomaly_class": "B"
+  },
+  "2": {
+    "image_filepath": "home/hakimin/images/2.jpg",
+    "anomaly_class": "C"
+  },
+  "3": {
+    "image_filepath": "home/hakimin/images/3.jpg",
+    "anomaly_class": "D"
+  },
+  "4": {
+    "image_filepath": "home/hakimin/images/4.jpg",
+    "anomaly_class": "E"
+  }
+}
